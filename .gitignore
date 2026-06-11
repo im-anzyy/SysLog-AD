@@ -1,0 +1,20 @@
+# Raw data files (too large for GitHub)
+data/raw/HDFS.log
+data/raw/*.log
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+
+# System files
+.DS_Store
+Thumbs.dbs"data/processed/logs_parsed.csv" 
+"data/processed/Event_traces.csv" 
+"data/processed/Event_occurrence_matrix.csv" 
+"data/processed/HDFS.npz" 
+"data/features/X_raw.npy" 
+"data/features/X_scaled.npy" 
