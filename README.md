@@ -76,7 +76,7 @@ v
 
 ```bash
 pip install numpy pandas scikit-learn matplotlib seaborn jupyter scipy
-git clone <your-repo-url>
+git clone https://github.com/im-anzyy/SysLog-AD
 cd log-anomaly-detection
 jupyter notebook
 ```
