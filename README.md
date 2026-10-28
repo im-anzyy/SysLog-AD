@@ -1,6 +1,6 @@
 # Log-Based Anomaly Detection using Machine Learning
 
-**Research project** comparing unsupervised ML algorithms for detecting anomalous behavior in real-world system logs at scale.
+Comparing unsupervised ML algorithms for detecting anomalous behavior in real-world system logs at scale.
 
 ---
 
